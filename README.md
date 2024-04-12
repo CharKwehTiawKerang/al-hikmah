@@ -1,6 +1,6 @@
 # Hall of Lens
 
-![Al-Hikmah]("/public/apps-screenshot.png")
+![Al-Hikmah]("https://raw.githubusercontent.com/CharKwehTiawKerang/al-hikmah/main/public/apps-screenshot.PNG")
 
 [![Vite](https://img.shields.io/badge/-Vite-646CFF?logo=Vite&logoColor=646CFF&labelColor=white&logoWidth=20)](https://vitejs.dev/) [![ReactJS](https://img.shields.io/badge/-ReactJS-61DAFB?logo=React&logoColor=61DAFB&labelColor=white&logoWidth=20)](https://react.dev/) [![Axios](https://img.shields.io/badge/-Axios-5A29E4?logo=Axios&logoColor=5A29E4&labelColor=white&logoWidth=20)](https://axios-http.com/) [![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=Bootstrap&logoColor=7952B3&labelColor=white&logoWidth=20)](https://getbootstrap.com/) ![Islamic-Advices](https://img.shields.io/badge/islamic_advices-Al_Hikmah-green)
 
